@@ -7,7 +7,7 @@ Please follow below steps
 
 2.Give that file a suitable name and upload it.
 
-3.Add you Username and Program file name as:
+3.Add you Username and Program file name in 'Details' as:
   
     Username          : xxxxxxxxxxxx
     Program File Name : xxxxxxxxxxxx
